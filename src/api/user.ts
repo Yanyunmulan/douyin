@@ -1,3 +1,8 @@
+
+//this is a user api
+//you can add your own api here
+
+
 import { request } from '@/utils/request'
 
 export function userinfo(params?: any, data?: any) {
